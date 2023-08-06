@@ -10,6 +10,6 @@ Coin Stats offers full push notification capability, personalized for each user 
 # Data and Statistics
 Coin Stats uses CoinGecko API, Context API, and React Chart.js to gather and present the latest market data, with seamless currency exchange.
 
-Coin Stats is a personal project inspired by RoadsideCoder's youtube videos.
+Coin Stats is a personal project inspired by RoadsideCoder's youtube videos and hosted by Google Firebase hosting services.
 
 
